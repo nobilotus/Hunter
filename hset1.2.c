@@ -23,7 +23,7 @@ int main(void) {
 	}
 	for(i=0;i<n;i++)
 	{
-		printf("%d",a[i]);
+	          //printf("%d",a[i]);
 		
 		sum=(sum*pos)+a[i];
 		pos=10;
